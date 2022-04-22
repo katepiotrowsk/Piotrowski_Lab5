@@ -9,7 +9,7 @@ class RadioStations() {
     init {
         stations.add(RadioStation("Radio Caroline", "http://sc6.radiocaroline.net:8040/mp3"))
         stations.add(RadioStation("WHUS", "http://stream.whus.org:8000/whusfm"))
-        stations.add(RadioStation("The Krush Wine Countr Netherlands", "https://19213.live.streamtheworld.com/KRSHFM.mp3"))
+        stations.add(RadioStation("The Krush Wine Country Netherlands", "https://19213.live.streamtheworld.com/KRSHFM.mp3"))
         stations.add(RadioStation("Haarlem 105 Germany", "http://stream.haarlem105.nl:8000/haarlem105low.mp3\n"))
         stations.add(RadioStation("rbb Radio Eins Germany", "http://www.radioeins.de/livemp3"))
         stations.add(RadioStation("Nativa FM Brazil", "https://servidor28.brlogic.com:8264/live"))
